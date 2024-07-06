@@ -38,4 +38,4 @@ The SQL script follows best practices for data cleaning and transformation, ensu
 
 ## Author
 
-This project was carried out by Bairavan. You can connect with me on [LinkedIn](www.linkedin.com/in/bairavan7904569673) or check out my other projects on [GitHub](your-github-profile).
+This project was carried out by Bairavan. You can connect with me on [LinkedIn](www.linkedin.com/in/bairavan7904569673) or check out my other projects on [GitHub](https://github.com/Bairavan7).
